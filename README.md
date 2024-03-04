@@ -6,3 +6,7 @@ Mentee assignment from IBM Advance AI Infinite Learning
 Name: Cyriil Lihardo Purba\
 Program: IBM Advance AI\
 Personal Mentor : Siska Anggraeni
+
+#Note
+- pip install -r requirements.txt
+
